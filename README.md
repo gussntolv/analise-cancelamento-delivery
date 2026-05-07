@@ -41,4 +41,4 @@ Este projeto analisa **3.000 pedidos** de um aplicativo de delivery para identif
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/analise-cancelamento-delivery.git
+git clone https://github.com/gussntolv/analise-cancelamento-delivery.git
